@@ -24,5 +24,4 @@ end
 
 def pizza_party(phrase = "cheese")
   puts phrase
-  puts pizza_party("pepperoni")
 end
