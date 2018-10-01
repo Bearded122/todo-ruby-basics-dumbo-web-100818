@@ -12,11 +12,10 @@ end
 
 def greeting(greeting, name)
   puts "Hi there, #{name}"
-
 end
 
 def return_a_value(value = "Bob")
-  puts value
+  puts "Nice"
 end
 
 def last_evaluated_value
